@@ -6,8 +6,8 @@ const data = [
     skills: ["js", "react", "node", "react native"],
     link: [
       "https://github.com/aksh-22",
-      "https://linkedin.com",
-      "https://twitter.com",
+      "https://www.linkedin.com/in/ak2298/",
+      "https://twitter.com/aksh__22",
     ],
   },
   {
@@ -303,6 +303,17 @@ const data = [
       "https://www.linkedin.com/in/m-samik/",
       "https://twitter.com/msamik7",
     ],
+  },
+  {
+    name: "Rajshree Nupur",
+    role: "Frontend Web development",
+    image: "https://avatars.githubusercontent.com/u/63921042?s=400&u=fea3baa23362b134a8e891d1a4eafb48a243b480&v=4",
+    skills: ['html', 'css', 'js', 'sql'],
+    link: [
+      "https://github.com/Rajshreenupur",
+      "https://www.linkedin.com/in/rajshree-nupur-910087183/",
+      "https://mobile.twitter.com/RajshreeNupur",
+      ],
   },
  
   {
@@ -833,8 +844,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Muthu Annamalai.V",
+    role: "CS Undergrad",
+    image: "https://avatars.githubusercontent.com/u/64524822?v=4",
+    skills: ['HTML', 'CSS', 'js'],
+    link: [
+      "https://github.com/muthuannamalai12",
+      "https://linkedin.com/in/muthu-annamalai",
+      "https://twitter.com/muthuannamalai_",
+    ],
+  },
 ];
-
-
 
 export default data;
