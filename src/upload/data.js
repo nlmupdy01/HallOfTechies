@@ -21,6 +21,18 @@ const data = [
       "https://twitter.com/Mohtasham7862",
     ],
   },
+
+{
+    name: "Neelam Upadhyay",
+    role: "Full Stack Developer/ IT Security",
+    image: "https://avatars.githubusercontent.com/u/77109645?v=4",
+    skills: ["cloud", "Linux Administration", "UI UX", "programmer"],
+    link: [
+      "https://github.com/nlmupdy01",
+      "https://www.linkedin.com/in/neelam-upadhyay-8736a3115",
+      "https://twitter.com/nlmupdy",
+    ],
+  },
   {
     name: "Ankit Chaudhari",
     role: "Full Stack Developer",
